@@ -1,0 +1,3 @@
+class ListbagItemModel {
+  String? id = "";
+}
