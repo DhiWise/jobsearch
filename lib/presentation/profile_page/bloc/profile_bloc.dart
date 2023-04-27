@@ -3,7 +3,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/profile_item_model.dart';
-import 'package:e_commerce_app/presentation/profile_page/models/profile_model.dart';
+import 'package:job_search/presentation/profile_page/models/profile_model.dart';
 part 'profile_event.dart';
 part 'profile_state.dart';
 

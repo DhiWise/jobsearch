@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
         GlobalWidgetsLocalizations.delegate,
         GlobalCupertinoLocalizations.delegate,
       ],
-      title: 'e_commerce_app',
+      title: 'job_search',
       initialRoute: AppRoutes.initialRoute,
       routes: AppRoutes.routes,
     );

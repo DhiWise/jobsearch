@@ -3,7 +3,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/listchineses_item_model.dart';
-import 'package:e_commerce_app/presentation/language_screen/models/language_model.dart';
+import 'package:job_search/presentation/language_screen/models/language_model.dart';
 part 'language_event.dart';
 part 'language_state.dart';
 

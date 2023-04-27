@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/app_navigation_screen/models/app_navigation_model.dart';
+import 'package:job_search/presentation/app_navigation_screen/models/app_navigation_model.dart';
 part 'app_navigation_event.dart';
 part 'app_navigation_state.dart';
 

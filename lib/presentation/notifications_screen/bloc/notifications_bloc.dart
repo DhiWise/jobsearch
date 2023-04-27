@@ -2,7 +2,7 @@ import '../models/notifications_item_model.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/notifications_screen/models/notifications_model.dart';
+import 'package:job_search/presentation/notifications_screen/models/notifications_model.dart';
 part 'notifications_event.dart';
 part 'notifications_state.dart';
 

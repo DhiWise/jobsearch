@@ -1,9 +1,9 @@
 import 'bloc/sign_up_complete_account_bloc.dart';
 import 'models/sign_up_complete_account_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/core/utils/validation_functions.dart';
-import 'package:e_commerce_app/widgets/custom_button.dart';
-import 'package:e_commerce_app/widgets/custom_text_form_field.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/core/utils/validation_functions.dart';
+import 'package:job_search/widgets/custom_button.dart';
+import 'package:job_search/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 

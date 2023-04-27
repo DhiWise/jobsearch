@@ -1,9 +1,9 @@
 import 'bloc/privacy_bloc.dart';
 import 'models/privacy_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_image.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_title.dart';
-import 'package:e_commerce_app/widgets/app_bar/custom_app_bar.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/app_bar/appbar_image.dart';
+import 'package:job_search/widgets/app_bar/appbar_title.dart';
+import 'package:job_search/widgets/app_bar/custom_app_bar.dart';
 import 'package:flutter/material.dart';
 
 class PrivacyScreen extends StatelessWidget {

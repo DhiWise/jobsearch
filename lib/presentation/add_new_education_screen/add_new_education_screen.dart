@@ -1,12 +1,12 @@
 import 'bloc/add_new_education_bloc.dart';
 import 'models/add_new_education_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_image.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_title.dart';
-import 'package:e_commerce_app/widgets/app_bar/custom_app_bar.dart';
-import 'package:e_commerce_app/widgets/custom_button.dart';
-import 'package:e_commerce_app/widgets/custom_drop_down.dart';
-import 'package:e_commerce_app/widgets/custom_text_form_field.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/app_bar/appbar_image.dart';
+import 'package:job_search/widgets/app_bar/appbar_title.dart';
+import 'package:job_search/widgets/app_bar/custom_app_bar.dart';
+import 'package:job_search/widgets/custom_button.dart';
+import 'package:job_search/widgets/custom_drop_down.dart';
+import 'package:job_search/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class AddNewEducationScreen extends StatelessWidget {

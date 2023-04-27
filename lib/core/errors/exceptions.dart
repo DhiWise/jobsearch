@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/main.dart';
+import 'package:job_search/main.dart';
 
 class ServerException implements Exception {}
 

@@ -1,11 +1,11 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/personal_info_screen/models/personal_info_model.dart';
-import 'package:e_commerce_app/data/models/updateProfile/put_update_profile_resp.dart';
-import 'package:e_commerce_app/data/models/updateProfile/put_update_profile_req.dart';
+import 'package:job_search/presentation/personal_info_screen/models/personal_info_model.dart';
+import 'package:job_search/data/models/updateProfile/put_update_profile_resp.dart';
+import 'package:job_search/data/models/updateProfile/put_update_profile_req.dart';
 import 'dart:async';
-import 'package:e_commerce_app/data/repository/repository.dart';
+import 'package:job_search/data/repository/repository.dart';
 part 'personal_info_event.dart';
 part 'personal_info_state.dart';
 

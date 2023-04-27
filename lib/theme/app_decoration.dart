@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/core/app_export.dart';
+import 'package:job_search/core/app_export.dart';
 
 class AppDecoration {
   static BoxDecoration get fillDeeppurple400 => BoxDecoration(

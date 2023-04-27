@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/add_new_education_screen/models/add_new_education_model.dart';
+import 'package:job_search/presentation/add_new_education_screen/models/add_new_education_model.dart';
 part 'add_new_education_event.dart';
 part 'add_new_education_state.dart';
 

@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/home_container_screen/models/home_container_model.dart';
+import 'package:job_search/presentation/home_container_screen/models/home_container_model.dart';
 part 'home_container_event.dart';
 part 'home_container_state.dart';
 

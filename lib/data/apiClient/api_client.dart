@@ -1,10 +1,10 @@
 import 'package:dio/dio.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/core/utils/progress_dialog_utils.dart';
-import 'package:e_commerce_app/data/models/list/post_list_resp.dart';
-import 'package:e_commerce_app/data/models/login/post_login_resp.dart';
-import 'package:e_commerce_app/data/models/register/post_register_resp.dart';
-import 'package:e_commerce_app/data/models/updateProfile/put_update_profile_resp.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/core/utils/progress_dialog_utils.dart';
+import 'package:job_search/data/models/list/post_list_resp.dart';
+import 'package:job_search/data/models/login/post_login_resp.dart';
+import 'package:job_search/data/models/register/post_register_resp.dart';
+import 'package:job_search/data/models/updateProfile/put_update_profile_resp.dart';
 
 import 'network_interceptor.dart';
 

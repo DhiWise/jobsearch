@@ -1,4 +1,4 @@
-import 'package:e_commerce_app/core/app_export.dart';
+import 'package:job_search/core/app_export.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_switch/flutter_switch.dart';
 

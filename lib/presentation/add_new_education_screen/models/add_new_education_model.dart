@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:e_commerce_app/data/models/selectionPopupModel/selection_popup_model.dart';
+import 'package:job_search/data/models/selectionPopupModel/selection_popup_model.dart';
 
 // ignore: must_be_immutable
 class AddNewEducationModel extends Equatable {

@@ -2,12 +2,12 @@ import '../search_screen/widgets/search_item_widget.dart';
 import 'bloc/search_bloc.dart';
 import 'models/search_item_model.dart';
 import 'models/search_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_image.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_title.dart';
-import 'package:e_commerce_app/widgets/app_bar/custom_app_bar.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/app_bar/appbar_image.dart';
+import 'package:job_search/widgets/app_bar/appbar_title.dart';
+import 'package:job_search/widgets/app_bar/custom_app_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/presentation/filter_bottomsheet/filter_bottomsheet.dart';
+import 'package:job_search/presentation/filter_bottomsheet/filter_bottomsheet.dart';
 
 class SearchScreen extends StatelessWidget {
   static Widget builder(BuildContext context) {

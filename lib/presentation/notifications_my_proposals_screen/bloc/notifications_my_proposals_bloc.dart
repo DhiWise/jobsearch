@@ -2,7 +2,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/listfavorite_item_model.dart';
-import 'package:e_commerce_app/presentation/notifications_my_proposals_screen/models/notifications_my_proposals_model.dart';
+import 'package:job_search/presentation/notifications_my_proposals_screen/models/notifications_my_proposals_model.dart';
 part 'notifications_my_proposals_event.dart';
 part 'notifications_my_proposals_state.dart';
 

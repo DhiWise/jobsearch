@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/listwallet1_item_model.dart';
 import '../models/listdescription1_item_model.dart';
-import 'package:e_commerce_app/presentation/saved_detail_job_screen/models/saved_detail_job_model.dart';
+import 'package:job_search/presentation/saved_detail_job_screen/models/saved_detail_job_model.dart';
 part 'saved_detail_job_event.dart';
 part 'saved_detail_job_state.dart';
 

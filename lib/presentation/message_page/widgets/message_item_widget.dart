@@ -1,5 +1,5 @@
 import '../models/message_item_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
+import 'package:job_search/core/app_export.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable

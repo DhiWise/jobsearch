@@ -1,17 +1,17 @@
-import 'package:e_commerce_app/core/utils/validation_functions.dart';
-import 'package:e_commerce_app/presentation/apply_job_popup_dialog/bloc/apply_job_popup_bloc.dart';
-import 'package:e_commerce_app/widgets/custom_text_form_field.dart';
+import 'package:job_search/core/utils/validation_functions.dart';
+import 'package:job_search/presentation/apply_job_popup_dialog/bloc/apply_job_popup_bloc.dart';
+import 'package:job_search/widgets/custom_text_form_field.dart';
 
 import 'bloc/apply_job_bloc.dart';
 import 'models/apply_job_model.dart';
 import 'package:dotted_border/dotted_border.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_image.dart';
-import 'package:e_commerce_app/widgets/app_bar/appbar_title.dart';
-import 'package:e_commerce_app/widgets/app_bar/custom_app_bar.dart';
-import 'package:e_commerce_app/widgets/custom_button.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/app_bar/appbar_image.dart';
+import 'package:job_search/widgets/app_bar/appbar_title.dart';
+import 'package:job_search/widgets/app_bar/custom_app_bar.dart';
+import 'package:job_search/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/presentation/apply_job_popup_dialog/apply_job_popup_dialog.dart';
+import 'package:job_search/presentation/apply_job_popup_dialog/apply_job_popup_dialog.dart';
 
 class ApplyJobScreen extends StatelessWidget {
   static Widget builder(BuildContext context) {

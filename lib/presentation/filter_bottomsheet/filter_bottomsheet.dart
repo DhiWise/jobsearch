@@ -2,9 +2,9 @@ import '../filter_bottomsheet/widgets/chipviewjobs_item_widget.dart';
 import 'bloc/filter_bloc.dart';
 import 'models/chipviewjobs_item_model.dart';
 import 'models/filter_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/custom_button.dart';
-import 'package:e_commerce_app/widgets/custom_text_form_field.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/custom_button.dart';
+import 'package:job_search/widgets/custom_text_form_field.dart';
 import 'package:flutter/material.dart';
 
 class FilterBottomsheet extends StatelessWidget {

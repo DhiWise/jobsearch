@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/listbag_item_model.dart';
 import '../models/listsettings_item_model.dart';
-import 'package:e_commerce_app/presentation/home_page/models/home_model.dart';
-import 'package:e_commerce_app/data/models/list/post_list_resp.dart';
-import 'package:e_commerce_app/data/models/list/post_list_req.dart';
+import 'package:job_search/presentation/home_page/models/home_model.dart';
+import 'package:job_search/data/models/list/post_list_resp.dart';
+import 'package:job_search/data/models/list/post_list_req.dart';
 import 'dart:async';
-import 'package:e_commerce_app/data/repository/repository.dart';
+import 'package:job_search/data/repository/repository.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 part 'home_event.dart';

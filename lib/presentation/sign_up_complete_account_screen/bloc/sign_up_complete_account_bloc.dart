@@ -1,11 +1,11 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/sign_up_complete_account_screen/models/sign_up_complete_account_model.dart';
-import 'package:e_commerce_app/data/models/register/post_register_resp.dart';
-import 'package:e_commerce_app/data/models/register/post_register_req.dart';
+import 'package:job_search/presentation/sign_up_complete_account_screen/models/sign_up_complete_account_model.dart';
+import 'package:job_search/data/models/register/post_register_resp.dart';
+import 'package:job_search/data/models/register/post_register_req.dart';
 import 'dart:async';
-import 'package:e_commerce_app/data/repository/repository.dart';
+import 'package:job_search/data/repository/repository.dart';
 part 'sign_up_complete_account_event.dart';
 part 'sign_up_complete_account_state.dart';
 

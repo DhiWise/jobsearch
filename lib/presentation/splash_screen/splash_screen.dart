@@ -1,6 +1,6 @@
 import 'bloc/splash_bloc.dart';
 import 'models/splash_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
+import 'package:job_search/core/app_export.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {

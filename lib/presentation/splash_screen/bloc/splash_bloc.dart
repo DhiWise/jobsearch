@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/splash_screen/models/splash_model.dart';
+import 'package:job_search/presentation/splash_screen/models/splash_model.dart';
 part 'splash_event.dart';
 part 'splash_state.dart';
 

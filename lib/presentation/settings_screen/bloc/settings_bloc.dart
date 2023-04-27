@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/settings_screen/models/settings_model.dart';
+import 'package:job_search/presentation/settings_screen/models/settings_model.dart';
 part 'settings_event.dart';
 part 'settings_state.dart';
 

@@ -2,7 +2,7 @@ import '../models/chipviewjobs_item_model.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
-import 'package:e_commerce_app/presentation/filter_bottomsheet/models/filter_model.dart';
+import 'package:job_search/presentation/filter_bottomsheet/models/filter_model.dart';
 part 'filter_event.dart';
 part 'filter_state.dart';
 

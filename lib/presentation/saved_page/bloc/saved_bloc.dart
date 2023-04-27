@@ -2,7 +2,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import '/core/app_export.dart';
 import '../models/saved_item_model.dart';
-import 'package:e_commerce_app/presentation/saved_page/models/saved_model.dart';
+import 'package:job_search/presentation/saved_page/models/saved_model.dart';
 part 'saved_event.dart';
 part 'saved_state.dart';
 

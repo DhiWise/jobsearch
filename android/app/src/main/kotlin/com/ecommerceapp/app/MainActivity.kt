@@ -1,4 +1,4 @@
-package com.ecommerceapp.app
+package com.jobsearch.app
 
 import io.flutter.embedding.android.FlutterActivity
 

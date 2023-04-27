@@ -1,6 +1,6 @@
 import '../models/listwallet_item_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/custom_icon_button.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/custom_icon_button.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable

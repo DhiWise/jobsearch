@@ -1,7 +1,7 @@
 import 'bloc/apply_job_popup_bloc.dart';
 import 'models/apply_job_popup_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/widgets/custom_button.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 class ApplyJobPopupDialog extends StatelessWidget {

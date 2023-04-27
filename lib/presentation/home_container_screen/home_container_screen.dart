@@ -1,11 +1,11 @@
 import 'bloc/home_container_bloc.dart';
 import 'models/home_container_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
-import 'package:e_commerce_app/presentation/home_page/home_page.dart';
-import 'package:e_commerce_app/presentation/message_page/message_page.dart';
-import 'package:e_commerce_app/presentation/profile_page/profile_page.dart';
-import 'package:e_commerce_app/presentation/saved_page/saved_page.dart';
-import 'package:e_commerce_app/widgets/custom_bottom_bar.dart';
+import 'package:job_search/core/app_export.dart';
+import 'package:job_search/presentation/home_page/home_page.dart';
+import 'package:job_search/presentation/message_page/message_page.dart';
+import 'package:job_search/presentation/profile_page/profile_page.dart';
+import 'package:job_search/presentation/saved_page/saved_page.dart';
+import 'package:job_search/widgets/custom_bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 // ignore_for_file: must_be_immutable

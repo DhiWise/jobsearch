@@ -1,10 +1,10 @@
 import 'bloc/app_navigation_bloc.dart';
 import 'models/app_navigation_model.dart';
-import 'package:e_commerce_app/core/app_export.dart';
+import 'package:job_search/core/app_export.dart';
 import 'package:flutter/material.dart';
-import 'package:e_commerce_app/presentation/filter_bottomsheet/filter_bottomsheet.dart';
-import 'package:e_commerce_app/presentation/apply_job_popup_dialog/apply_job_popup_dialog.dart';
-import 'package:e_commerce_app/presentation/logout_popup_dialog/logout_popup_dialog.dart';
+import 'package:job_search/presentation/filter_bottomsheet/filter_bottomsheet.dart';
+import 'package:job_search/presentation/apply_job_popup_dialog/apply_job_popup_dialog.dart';
+import 'package:job_search/presentation/logout_popup_dialog/logout_popup_dialog.dart';
 
 class AppNavigationScreen extends StatelessWidget {
   static Widget builder(BuildContext context) {
